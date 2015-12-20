@@ -1,0 +1,4 @@
+c:\users\123\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.Properties.Resources.resources
+c:\users\123\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.csproj.GenerateResource.Cache
+C:\Users\micen\Downloads\Fuzzy\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.Properties.Resources.resources
+C:\Users\micen\Downloads\Fuzzy\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.csproj.GenerateResource.Cache
